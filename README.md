@@ -13,6 +13,6 @@ ROS 2 Jazzy system for automated industrial part classification using CNN and UR
 - TensorFlow 2.20.0
 
 ## Model
-CNN available on HuggingFace: [Add link]
+CNN available on HuggingFace: https://huggingface.co/keviniacs/Objects-Classifier-CNN 
 
 ## Documentation
